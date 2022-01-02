@@ -6,7 +6,7 @@ $phone = $form['phone'];
 $sjubject = $form['sjubject'];
 $message = $form['message'];
 
-define('TO_EMAIL', 'themewar@gmail.com');
+define('TO_EMAIL', 'arturo@crespo.ml');
 define('SUBJECT', $sjubject);
 define('FROM_EMAIL', $email);
 

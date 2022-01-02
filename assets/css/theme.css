@@ -119,8 +119,8 @@
     -o-transition: all ease 300ms;
     -ms-transition: all ease 300ms;
 }
-.psSocial a.fac{
-    background: #1773EA;
+.psSocial a.lin{
+    background: #0072b1;
 }
 .psSocial a.twi{
     background: #009DEB;
@@ -128,8 +128,8 @@
 .psSocial a.ins{
     background: #D62977;
 }
-.psSocial a.dri{
-    background: #EA4C89;
+.psSocial a.wapp{
+    background: #128C7E;
 }
 .psSocial a:hover {
     background: #7635f5;
