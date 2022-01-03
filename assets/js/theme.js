@@ -165,8 +165,8 @@
         var map;
         map = new GMaps({
             el: '#map',
-            lat: 53.967015,
-            lng: -1.079608,
+            lat: 4.644505291450318,
+            lng: -74.05955281375383,
             scrollwheel: false,
             zoom: 16,
             zoomControl: false,
@@ -178,8 +178,8 @@
         });
         var image = '';
         map.addMarker({
-            lat: 53.967015,
-            lng: -1.079608,
+            lat: 4.644505291450318,
+            lng: -74.05955281375383,
             icon: 'assets/images/marker.png',
             animation: google.maps.Animation.DROP,
             verticalAlign: 'bottom',
