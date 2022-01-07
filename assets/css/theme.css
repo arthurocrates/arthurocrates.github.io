@@ -68,6 +68,14 @@
     width: 100%;
     padding: 30px 35px;
 }
+.psContent h1{
+    margin: 0 0 9px;
+    color: #FFF;
+    font-size: 23px;
+    font-weight: 600;
+    line-height: .8;
+    text-transform: capitalize;
+}
 .psContent h3{
     margin: 0 0 9px;
     color: #FFF;
